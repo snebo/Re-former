@@ -4,7 +4,9 @@ this is part of the Forms Project in The Odin Project's Ruby on Rails Curriculum
 
 
 
-* Ruby version: 3.2.2
+### How to start application:
+$ ./bin/dev rails server
+application address can be found at "localhost:3000"
 
 * System dependencies: 
   - Ruby v3.2.2
